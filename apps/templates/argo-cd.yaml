@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: charts/argo-cd
-    repoURL: https://gitlab.com/tzero-git/tz/infrastructure/argocd-panicker
+    repoURL: https://github.com/panickerthomas/argocd-panicker.git
     targetRevision: HEAD
   syncPolicy:
     automated:
