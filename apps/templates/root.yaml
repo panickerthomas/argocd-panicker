@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://gitlab.com/tzero-git/tz/infrastructure/argocd-panicker
+    repoURL: hhttps://github.com/panickerthomas/argocd-panicker.git
     targetRevision: HEAD
   syncPolicy:
     automated:
